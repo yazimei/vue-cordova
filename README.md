@@ -172,5 +172,3 @@ cordova build android –release
   <base-config cleartextTrafficPermitted="true" />
 </network-security-config>
 ```
-
-# 开发过程遇到问题，一起交流~
